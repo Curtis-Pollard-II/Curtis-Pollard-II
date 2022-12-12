@@ -2,7 +2,7 @@
 <h3 align="center">My name is Curtis and I am a passionate developer from Tumwater, WA</h3>
 <img align="right" width="400" src="https://i.pinimg.com/originals/09/3f/18/093f1861fc92b3a0ba497ece177b27e6.gif"
 
- 👨‍💻 My projects are available at [PORTFOLIO](curtispollardcode.com)
+ 👨‍💻 My projects are available at [PORTFOLIO] **curtispollardcode.com**
 
  📫 How to reach me **curtispollard.code@gmail.com**
 
